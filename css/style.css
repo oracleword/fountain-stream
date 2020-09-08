@@ -301,3 +301,12 @@ border:2px solid rgb(178,131,9);
 margin-top: 20px;
 list-style: none;
 }
+._d16{
+text-align: center;
+font-size: 40px;
+}
+._d18{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
