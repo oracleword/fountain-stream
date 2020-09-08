@@ -36,6 +36,13 @@ img._wtv{
 .links li a{
 	text-decoration: none;
 	color: #212529;
+
+}
+.links li a:hover{
+	background-color: rgb(178,131,9);
+	border-color: rgb(178,131,9);
+	text-decoration: none;
+
 }
 button._btn {
 padding: 10px 15px;
@@ -104,6 +111,10 @@ img._pan{
 }
 .sectC{
 	overflow-x: hidden;
+	margin-top: 5px;
+	margin-left: -7px;
+	margin-right: -7px;
+
 }
  ._footer {
     background: hsl(243, 87%, 12%);
@@ -151,4 +162,142 @@ li.icon-icon{
 .nik li a{
     text-decoration: none;
     color: white;
+}
+#sectB{
+	background-color: rgb(178,131,9);
+	text-align: center;
+	margin-top: -9px;
+	margin-left: -7px;
+	margin-right: -7px;
+
+	
+	
+}
+.pst{
+	font-size: 40px;
+	padding-top: 20px;
+	color: white;
+	
+
+}
+.p13{
+	font-size: 25px;
+	padding-bottom: 30px;
+	color: white;
+	
+}
+.banner-box{
+	display: flex;
+
+}
+.img14{
+	width: 540px;
+}
+.banner{
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+}
+._joy{
+	margin-left: 30px;
+	box-sizing: border-box;
+	padding: 0px 30px;
+	margin-top: 50px;
+
+}
+h2{
+	color: rgb(178,131,9);
+	margin-top: 100px;
+
+}
+#sectD{
+	text-align: center;
+	background-color: #333;
+	margin-top: -35px;
+	margin-left: -7px;
+	margin-right: -7px;
+}
+ul.tph{
+	text-decoration: none;
+	list-style: none;
+	display: flex;
+	float: center;
+	margin-top: 60px;
+}
+li.tph{
+
+}
+._dmt{
+	    color: #999;
+    font-size: 16px;
+}
+.__dsv{
+	color: white;
+}
+h1._d12{
+	font-size: 40px;
+	position: relative;
+	padding: 30px;
+	color: rgb(178,131,9)
+}
+.sectE{
+	display: flex;
+}
+._d13{
+	margin-left: 70px;
+	margin-top: 40px;
+}
+._d14{
+	color: rgb(178,131,9);
+	font-size: 20px;
+}
+._img{
+	width: 600px;
+
+}
+._form{
+	padding: 20px;
+}
+._text{
+    padding:15px;
+    padding-left: 600px;
+    border-radius: 4px solid white;
+    margin-top: 10px;
+}
+._text1{
+    padding:15px;
+    padding-left: 600px;
+    border-radius: 4px solid white;
+    margin-top: 10px;
+}
+._text2{
+    padding:15px;
+    padding-left: 600px;
+    border-radius: 4px solid white;
+    margin-top: 31px;
+}
+._text3{
+    padding:15px;
+    padding-left: 600px;
+    border-radius: 4px solid white;
+    margin-top: 10px;
+}
+._text4{
+    padding:15px;
+    padding-left: 600px;
+    border-radius: 4px solid white;
+    margin-top: 10px;
+}
+._d15{
+	font-size: 25px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+button._btn2 {
+padding: 15px 35px;
+border-radius: 24px;
+background-color: white;
+border:2px solid rgb(178,131,9);
+margin-top: 20px;
+list-style: none;
 }
